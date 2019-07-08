@@ -1,0 +1,27 @@
+* {
+  margin: 0px;
+}
+body{
+  background-color: #F6EDBA;
+}
+
+#card{
+
+
+}
+
+#banner{
+  background-color: black;
+  color: #ffffff;
+  height: auto;
+
+}
+
+
+
+@media {
+  #card {
+    max width: 450px;
+  
+  }
+}
