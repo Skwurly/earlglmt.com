@@ -1,27 +1,41 @@
-* {
-  margin: 0px;
-}
-body{
-  background-color: #F6EDBA;
+*{
+  margin:0px;
+  font-family: 'Montserrat', sans-serif;
 }
 
-#card{
-
-
+body {
+  background-color: #ffffcc;
 }
 
-#banner{
+#header{
   background-color: black;
   color: #ffffff;
-  height: auto;
+}
+
+a{
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 30px;
+}
+
+button{
+  border-radius: 10px;
+  background-color: #561c5c;
+  color: #ffffff;
+}
+
+#menu{
+  background-color: rgba(0, 0, 0, 0.2);
+  margin: 10px;
+
+  border-radius: 10px;
+  max-width: 500px;
 
 }
 
-
-
-@media {
-  #card {
-    max width: 450px;
-  
-  }
+#footer{
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 13px;
+  height: 50px;
 }
